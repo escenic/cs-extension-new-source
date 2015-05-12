@@ -1,0 +1,6 @@
+{ 
+  "main" : "main.js",
+  "name": "view-source",
+  "version" : "1.0.0",
+  "flags" : [ "autoinstall" ]
+}
