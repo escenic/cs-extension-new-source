@@ -25,6 +25,9 @@ This simple extension adds a new menu item called "View Source" in Content Studi
   javaws http://content-engine-host/studio/Studio.jnlp?com.escenic.script.root=/path/to/cs-extensions
   ```
 
+4. Inside Content Studio, open the Debug menu, and enable the "Developer Mode" — This will enable all extension sin the folder specified.
+
+
 ## Server installation (for everyone)
 
 This is explained in more detail in the [section on deploying extensions](http://docs.escenic.com/ece-cs-plugin-guide/5.7/deploying_your_extensions.html) in the Integration Guide.
